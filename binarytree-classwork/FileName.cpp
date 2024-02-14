@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include <iostream>  // it is an input output statments 
+using namespace std;  // standard command 
 
 // Define a structure for a node in the binary tree
 struct Node {
